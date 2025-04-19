@@ -6,5 +6,5 @@
 ## Deployment
 
 
-**[[https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://pharmacy-professional-network.vercel.app/)**
+**[https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://pharmacy-professional-network.vercel.app/)**
 
