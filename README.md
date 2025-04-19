@@ -95,17 +95,20 @@ For demonstration purposes, you can use the following credentials:
 ### Home Page
 
 
+![screencapture-pharmacy-professional-network-vercel-app-2025-04-19-14_43_37](https://github.com/user-attachments/assets/bd96e820-44aa-4ae8-914b-f690fee17571)
 
 
 
 ### Feed
 
 
+![screencapture-pharmacy-professional-network-vercel-app-feed-2025-04-19-14_45_28](https://github.com/user-attachments/assets/53645d14-e7da-409f-aaec-2ce5a17d0484)
 
 
 
 ### Profile
 
+![screencapture-pharmacy-professional-network-vercel-app-profile-applicant-2025-04-19-14_46_10](https://github.com/user-attachments/assets/83bb67b4-820e-44f9-ae78-af99f10bf6b2)
 
 
 
@@ -113,6 +116,7 @@ For demonstration purposes, you can use the following credentials:
 ### Jobs
 
 
+![screencapture-pharmacy-professional-network-vercel-app-jobs-2025-04-19-14_45_57](https://github.com/user-attachments/assets/b846a896-525e-459a-be42-5632ead75495)
 
 
 
