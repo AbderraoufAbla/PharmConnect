@@ -1,30 +1,10 @@
-# Pharmacy professional network
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+# Pharmacy Professional Network
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/RhvrrZ4B2Cl)
 
-## Overview
-
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
 
 ## Deployment
 
-Your project is live at:
 
-**[https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network)**
+**[[https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://vercel.com/gtrgrgs-projects/v0-pharmacy-professional-network](https://pharmacy-professional-network.vercel.app/)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/RhvrrZ4B2Cl](https://v0.dev/chat/projects/RhvrrZ4B2Cl)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
